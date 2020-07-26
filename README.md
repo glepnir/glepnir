@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div align="center">
 <img alt="golang" src="https://img.icons8.com/color/50/000000/golang.png"/>
 </div>
