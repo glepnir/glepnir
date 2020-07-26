@@ -10,6 +10,8 @@
 <b><a href="mailto:glepnir@gopherhub.org"> Email me</a></b>
 •
 <b><a href="https://blog.gopherhub.org">My Blog</a></b>
+•
+<b><a href="https://www.paypal.me/bobbyhub">Sponsor</a></b>
 </p>
 
 <br/>
