@@ -21,6 +21,6 @@
 **Personal Stuffs:**
 
 - Now currently focused on [DataStructures And Algorithms in Go](https://github.com/glepnir/DataStructuresAndAlgorithms-Go)
-- some vim plugins [ThinkVim](https://github.com/hardcoreplayers/ThinkVim) [Dashboard-nvim](https://github.com/hardcoreplayers/dashboard-nvim) [Spaceline.vim](https://github.com/hardcoreplayers/spaceline.vim) [NviMagit](https://github.com/hardcoreplayers/nvimagit) [OceanicMaterial](https://github.com/hardcoreplayers/oceanic-material)..
+- Author of these vim plugins [ThinkVim](https://github.com/hardcoreplayers/ThinkVim) [Dashboard-nvim](https://github.com/hardcoreplayers/dashboard-nvim) [Spaceline.vim](https://github.com/hardcoreplayers/spaceline.vim) [NviMagit](https://github.com/hardcoreplayers/nvimagit) [OceanicMaterial](https://github.com/hardcoreplayers/oceanic-material)..
 - [Jarvim](https://github.com/glepnir/jarvim) a cli tools to generate a module vim configruation like a **VIM PRO**
 - ❤️ If my projects have helped you, please consider [sponsoring me](https://www.paypal.me/bobbyhub) ~~ Thank you! ❤️
