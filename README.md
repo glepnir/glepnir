@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="golang" src="https://img.icons8.com/color/50/000000/golang.png"/>
+<img height="150" src="https://gitlab.com/miguelbogota/miguelbogota/-/raw/master/cat.gif" alt="gif with funny random cat say thank you." />
 </div>
 
 <p align="center">
@@ -15,4 +15,3 @@
 </p>
 
 <br/>
-
