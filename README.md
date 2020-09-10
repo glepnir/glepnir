@@ -16,29 +16,3 @@
 
 <br/>
 
-**Vim Plugins**
-
-<p style="float:left">
-<a href="https://github.com/glepnir/dashboard-nvim"><img src="https://github-readme-stats.vercel.app/api/pin/?username=glepnir&repo=dashboard-nvim"></a>
-</p>
-<p style="float:right">
-<a href="https://github.com/glepnir/spaceline.vim"><img src="https://github-readme-stats.vercel.app/api/pin/?username=glepnir&repo=spaceline.vim"></a>
-</p>
-<p style="float:left">
-<a href="https://github.com/glepnir/oceanic-material"><img src="https://github-readme-stats.vercel.app/api/pin/?username=glepnir&repo=oceanic-material"></a>
-</p>
-<p style="float:right">
-<a href="https://github.com/hardcoreplayers/ThinkVim"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hardcoreplayers&repo=ThinkVim"></a>
-</p>
-
-**Go stuffs**
-
-<p style="float:left">
-<a href="https://github.com/glepnir/jarvim"><img src="https://github-readme-stats.vercel.app/api/pin/?username=glepnir&repo=jarvim"></a>
-</p>
-<p style="float:right">
-<a href="https://github.com/glepnir/validator-zh"><img src="https://github-readme-stats.vercel.app/api/pin/?username=glepnir&repo=validator-zh"></a>
-</p>
-<p style="float:left">
-<a href="https://github.com/glepnir/GoDoc-CN"><img src="https://github-readme-stats.vercel.app/api/pin/?username=glepnir&repo=GoDoc-CN"></a>
-</p>
