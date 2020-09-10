@@ -3,9 +3,9 @@
 </div>
 
 <p align="center">
-<b> Gopher </b>
+<b><a href="https://github.com/golang/go">Gopher</a></b>
 •
-<b> Vimer </b>
+<b><a href="https://github.com/neovim/neovim">(Neo)Vimer</a></b>
 •
 <b><a href="mailto:glepnir@gopherhub.org"> Email me</a></b>
 •
@@ -16,11 +16,29 @@
 
 <br/>
 
-![glepnir's github stats](https://github-readme-stats.vercel.app/api?username=glepnir&show_icons=true&theme=tokyonight)
+**Vim Plugins**
 
-**Personal Stuffs:**
+<p style="float:left">
+<a href="https://github.com/glepnir/dashboard-nvim"><img src="https://github-readme-stats.vercel.app/api/pin/?username=glepnir&repo=dashboard-nvim"></a>
+</p>
+<p style="float:right">
+<a href="https://github.com/glepnir/spaceline.vim"><img src="https://github-readme-stats.vercel.app/api/pin/?username=glepnir&repo=spaceline.vim"></a>
+</p>
+<p style="float:left">
+<a href="https://github.com/glepnir/oceanic-material"><img src="https://github-readme-stats.vercel.app/api/pin/?username=glepnir&repo=oceanic-material"></a>
+</p>
+<p style="float:right">
+<a href="https://github.com/hardcoreplayers/ThinkVim"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hardcoreplayers&repo=ThinkVim"></a>
+</p>
 
-- Now currently focused on [DataStructures And Algorithms in Go](https://github.com/glepnir/DataStructuresAndAlgorithms-Go)
-- Author of these vim plugins [ThinkVim](https://github.com/hardcoreplayers/ThinkVim) [Dashboard-nvim](https://github.com/hardcoreplayers/dashboard-nvim) [Spaceline.vim](https://github.com/hardcoreplayers/spaceline.vim) [NviMagit](https://github.com/hardcoreplayers/nvimagit) [OceanicMaterial](https://github.com/hardcoreplayers/oceanic-material)..
-- [Jarvim](https://github.com/glepnir/jarvim) a cli tools to generate a module vim configruation like a **VIM PRO**
-- ❤️ If my projects have helped you, please consider [sponsoring me](https://www.paypal.me/bobbyhub) ~~ Thank you! ❤️
+**Go stuffs**
+
+<p style="float:left">
+<a href="https://github.com/glepnir/jarvim"><img src="https://github-readme-stats.vercel.app/api/pin/?username=glepnir&repo=jarvim"></a>
+</p>
+<p style="float:right">
+<a href="https://github.com/glepnir/validator-zh"><img src="https://github-readme-stats.vercel.app/api/pin/?username=glepnir&repo=validator-zh"></a>
+</p>
+<p style="float:left">
+<a href="https://github.com/glepnir/GoDoc-CN"><img src="https://github-readme-stats.vercel.app/api/pin/?username=glepnir&repo=GoDoc-CN"></a>
+</p>
