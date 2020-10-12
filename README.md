@@ -1,4 +1,3 @@
-<script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
 <div align="center">
 <img height="150" src="https://gitlab.com/miguelbogota/miguelbogota/-/raw/master/cat.gif" alt="gif with funny random cat say thank you." />
 </div>
@@ -24,6 +23,8 @@
 <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
 </p>
 
+## Here are something that I made.
+
 ### <img alt="go icon" src="https://github.com/glepnir/glepnir/raw/master/octicons/gopher.svg" width=24 /> Go stuffs
 - [DataStructuresAndAlgorithms-Go](https://github.com/glepnir/DataStructuresAndAlgorithms-Go)
   DataStructuresAndAlgorithms in Go
@@ -38,7 +39,7 @@
 [Neovim](https://github.com/neovim/neovim) Contributor and Maintainer,
 [Nvim-lua](https://github.com/nvim-lua) Maintainer. Here are some (Neo)Vim plugins that I made.
 
-- **Written in Lua Neovim Only**
+- <img alt="lua icon" src="https://github.com/glepnir/glepnir/raw/master/octicons/lua.svg" width=24 />  **Written in Lua Neovim Only**
   - [nvim](https://github.com/glepnir/nvim) My personal neovim config
   - [zephyr-nvim](https://github.com/glepnir/zephyr-nvim) A dark neovim colorscheme Written in lua
   - [lsp_extensions.nvim](https://github.com/nvim-lua/lsp_extensions.nvim) Neovim built-in lsp extensions
