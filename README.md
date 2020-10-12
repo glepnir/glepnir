@@ -57,4 +57,4 @@
 
 ### <img alt="zig icon" src="https://github.com/glepnir/glepnir/raw/master/octicons/zig.svg" width=24 /> Zig stuffs
 
-[Zig-tutorial](https://github.com/glepnir/Zig-tutorial)  A Chinese tutorial for zig programming language
+- [Zig-tutorial](https://github.com/glepnir/Zig-tutorial)  A Chinese tutorial for zig programming language
