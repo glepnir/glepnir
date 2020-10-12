@@ -24,15 +24,35 @@
 <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
 </p>
 
-#### <img alt="vim icon" src="https://github.com/glepnir/glepnir/raw/master/octicons/vim.svg" width=24 /> Vim plugins written in Lua And Vimscript
+### <img alt="go icon" src="https://github.com/glepnir/glepnir/raw/master/octicons/gopher.svg" width=24 /> Go stuffs
+- [DataStructuresAndAlgorithms-Go](https://github.com/glepnir/DataStructuresAndAlgorithms-Go)
+  DataStructuresAndAlgorithms in Go
+- [GoDoc-CN](https://github.com/glepnir/GoDoc-CN) Dash document in go standard library Chinese
+- [create-my-app](https://github.com/glepnir/create-my-app)  Quickly create a complete app/project directory
+- [go-client](https://github.com/neovim/go-client) is a Neovim client and plugin host for Go.
+- [validatorzh](https://github.com/glepnir/validatorzh) is a Chinese translate for validator package
+- [leaseapp](https://github.com/glepnir/leaseapp) is a example usage of go casbin package
 
+### <img alt="vim icon" src="https://github.com/glepnir/glepnir/raw/master/octicons/vim.svg" width=24 /> Vim stuffs
 
-- [nvim](https://github.com/glepnir/nvim) My personal neovim confi all Written in lua.
-- [zephyr-nvim](https://github.com/glepnir/zephyr-nvim) A dark neovim colorscheme Written in lua.
+[Neovim](https://github.com/neovim/neovim) Contributor and Maintainer,
+[Nvim-lua](https://github.com/nvim-lua) Maintainer. Here are some (Neo)Vim plugins that I made.
 
-[vim icon]: https://github.com/glepnir/glepnir/raw/master/octicons/vim.svg "vim app"
-[code icon]: https://github.com/glepnir/glepnir/raw/master/octicons/file-code-16.svg "programming language"
-[browser icon]: https://github.com/glepnir/glepnir/raw/master/octicons/browser-16.svg "web app"
-[term icon]: https://github.com/glepnir/glepnir/raw/master/octicons/terminal-16.svg "terminal app"
-[desktop icon]: https://github.com/glepnir/glepnir/raw/master/octicons/device-desktop-16.svg "desktop app"
-[pr icon]: https://github.com/glepnir/glepnir/raw/master/octicons/git-pull-request-16.svg "pull requests"
+- **Written in Lua Neovim Only**
+  - [nvim](https://github.com/glepnir/nvim) My personal neovim config
+  - [zephyr-nvim](https://github.com/glepnir/zephyr-nvim) A dark neovim colorscheme Written in lua
+  - [lsp_extensions.nvim](https://github.com/nvim-lua/lsp_extensions.nvim) Neovim built-in lsp extensions
+
+- **Written in Vimscript**
+  - [dashboard-nvim](https://github.com/glepnir/dashboard-nvim) Vim/Neovim startup plugin
+  - [spaceline.vim](https://github.com/glepnir/spaceline.vim) Vim/Neovim statusline plugin like
+    spacemacs
+  - [oceanic_materual](https://github.com/glepnir/oceanic_materual) Vim/Neovim Colorscheme
+  - [ThinkVim](https://github.com/hardcoreplayers/ThinkVim) Community-based vim configuration
+
+- **Written in Go**
+  - [Jarvim](https://github.com/glepnir/jarvim) Cli tool to generate vim configuration
+
+### <img alt="zig icon" src="https://github.com/glepnir/glepnir/raw/master/octicons/zig.svg" width=24 /> Zig stuffs
+
+[Zig-tutorial](https://github.com/glepnir/Zig-tutorial)  A Chinese tutorial for zig programming language
