@@ -40,7 +40,8 @@
 [Nvim-lua](https://github.com/nvim-lua) Maintainer. Here are some (Neo)Vim plugins that I made.
 
 - <img alt="lua icon" src="https://github.com/glepnir/glepnir/raw/master/octicons/lua.svg" width=24 />  **Written in Lua Neovim Only**
-  - [nvim](https://github.com/glepnir/nvim) My personal neovim config
+  - [nvim](https://github.com/glepnir/nvim) My personal neovim config with lots of person hack and
+    all written in lua.
   - [zephyr-nvim](https://github.com/glepnir/zephyr-nvim) A dark neovim colorscheme Written in lua
   - [lsp_extensions.nvim](https://github.com/nvim-lua/lsp_extensions.nvim) Neovim built-in lsp extensions
 
@@ -51,7 +52,7 @@
   - [oceanic_materual](https://github.com/glepnir/oceanic_materual) Vim/Neovim Colorscheme
   - [ThinkVim](https://github.com/hardcoreplayers/ThinkVim) Community-based vim configuration
 
-- **Written in Go**
+- <img alt="go icon" src="https://github.com/glepnir/glepnir/raw/master/octicons/gopher.svg" width=24 /> **Written in Go**
   - [Jarvim](https://github.com/glepnir/jarvim) Cli tool to generate vim configuration
 
 ### <img alt="zig icon" src="https://github.com/glepnir/glepnir/raw/master/octicons/zig.svg" width=24 /> Zig stuffs
