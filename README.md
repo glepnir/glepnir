@@ -1,3 +1,4 @@
+<script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
 <div align="center">
 <img height="150" src="https://gitlab.com/miguelbogota/miguelbogota/-/raw/master/cat.gif" alt="gif with funny random cat say thank you." />
 </div>
@@ -23,12 +24,14 @@
 <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
 </p>
 
+![vim icon][]
 #### <img alt="vim icon" src="https://github.com/glepnir/glepnir/raw/master/devicon/vim.svg" width=16 />Vim plugins written in Lua And Vimscript
 
 
 - [nvim](https://github.com/glepnir/nvim) My personal neovim confi all Written in lua.
 - [zephyr-nvim](https://github.com/glepnir/zephyr-nvim) A dark neovim colorscheme Written in lua.
 
+[vim icon]: https://github.com/glepnir/glepnir/raw/master/octicons/vim.svg "vim app"
 [code icon]: https://github.com/glepnir/glepnir/raw/master/octicons/file-code-16.svg "programming language"
 [browser icon]: https://github.com/glepnir/glepnir/raw/master/octicons/browser-16.svg "web app"
 [term icon]: https://github.com/glepnir/glepnir/raw/master/octicons/terminal-16.svg "terminal app"
