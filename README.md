@@ -32,7 +32,7 @@
 - [create-my-app](https://github.com/glepnir/create-my-app)  Quickly create a complete app/project directory
 - [go-client](https://github.com/neovim/go-client) is a Neovim client and plugin host for Go.
 - [validatorzh](https://github.com/glepnir/validatorzh) is a Chinese translate for validator package
-- [leaseapp](https://github.com/glepnir/leaseapp) is a example usage of go casbin package
+- [leaseapp](https://github.com/glepnir/leaseapp) is an example usage of go casbin package
 
 ### <img alt="vim icon" src="https://github.com/glepnir/glepnir/raw/master/octicons/vim.svg" width=24 /> Vim stuffs
 
