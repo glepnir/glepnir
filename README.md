@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
 </p>
 
-#### <img alt="vim icon" src="https://github.com/glepnir/glepnir/raw/master/octicons/vim.svg" width=32 /> Vim plugins written in Lua And Vimscript
+#### <img alt="vim icon" src="https://github.com/glepnir/glepnir/raw/master/octicons/vim.svg" width=24 /> Vim plugins written in Lua And Vimscript
 
 
 - [nvim](https://github.com/glepnir/nvim) My personal neovim confi all Written in lua.
