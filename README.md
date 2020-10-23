@@ -40,6 +40,7 @@
 [Nvim-lua](https://github.com/nvim-lua) Maintainer. Here are some (Neo)Vim plugins that I made.
 
 - <img alt="lua icon" src="https://github.com/glepnir/glepnir/raw/master/octicons/lua.svg" width=24 />  **Written in Lua Neovim Only**
+  - [galaxyline.nvim](https://github.com/glepnir/galaxyline.nvim) a highliy custom support neovim stautsline
   - [nvim](https://github.com/glepnir/nvim) My personal neovim config with lots of person hack and
     all written in lua.
   - [zephyr-nvim](https://github.com/glepnir/zephyr-nvim) A dark neovim colorscheme Written in lua
