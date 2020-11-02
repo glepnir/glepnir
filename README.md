@@ -50,7 +50,7 @@
   - [dashboard-nvim](https://github.com/glepnir/dashboard-nvim) Vim/Neovim startup plugin
   - [spaceline.vim](https://github.com/glepnir/spaceline.vim) Vim/Neovim statusline plugin like
     spacemacs
-  - [oceanic_materual](https://github.com/glepnir/oceanic_materual) Vim/Neovim Colorscheme
+  - [oceanic material](https://github.com/glepnir/oceanic-material) Vim/Neovim Colorscheme
   - [ThinkVim](https://github.com/hardcoreplayers/ThinkVim) Community-based vim configuration
 
 - <img alt="go icon" src="https://github.com/glepnir/glepnir/raw/master/octicons/gopher.svg" width=24 /> **Written in Go**
