@@ -48,8 +48,7 @@
 
 - **Written in Vimscript**
   - [dashboard-nvim](https://github.com/glepnir/dashboard-nvim) Vim/Neovim startup plugin
-  - [spaceline.vim](https://github.com/glepnir/spaceline.vim) Vim/Neovim statusline plugin like
-    spacemacs
+  - [spaceline.vim](https://github.com/glepnir/spaceline.vim) Vim/Neovim statusline plugin like spacemacs
   - [oceanic material](https://github.com/glepnir/oceanic-material) Vim/Neovim Colorscheme
   - [ThinkVim](https://github.com/hardcoreplayers/ThinkVim) Community-based vim configuration
 
