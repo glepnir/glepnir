@@ -26,7 +26,7 @@
 ## Here are something that I made.
 
 ### <img alt="go icon" src="https://github.com/glepnir/glepnir/raw/master/octicons/gopher.svg" width=24 /> Go stuffs
-- [DataStructuresAndAlgorithms-Go](https://github.com/glepnir/DataStructuresAndAlgorithms-Go)
+- [golang-advance](https://github.com/glepnir/golang-advance)
   DataStructuresAndAlgorithms in Go
 - [GoDoc-CN](https://github.com/glepnir/GoDoc-CN) Dash document in go standard library Chinese
 - [create-my-app](https://github.com/glepnir/create-my-app)  Quickly create a complete app/project directory
