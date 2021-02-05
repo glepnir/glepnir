@@ -25,7 +25,6 @@
 
 <div align='center'>
 <b>A Gopher that is building my own web framework now</b><br>
-<b>Like to study new programming language and technologies</b><br>
 <b>Neovim Core Maintainer And like to build neovim plugin use lua go rust</b>
 </div>
 <hr/>
