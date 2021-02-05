@@ -23,7 +23,12 @@
 <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
 </p>
 
-## Here are something that I made.
+<div align='center'>
+<b>A Gopher that is building my own web framework now</b><br>
+<b>Like to study new programming language and technologies</b><br>
+<b>Neovim Core Maintainer And like to build neovim plugin use lua go rust</b>
+</div>
+<hr/>
 
 ### <img alt="go icon" src="https://github.com/glepnir/glepnir/raw/master/octicons/gopher.svg" width=24 /> Go stuffs
 - [golang-advance](https://github.com/glepnir/golang-advance)
@@ -35,9 +40,6 @@
 - [leaseapp](https://github.com/glepnir/leaseapp) is an example usage of go casbin package
 
 ### <img alt="vim icon" src="https://github.com/glepnir/glepnir/raw/master/octicons/vim.svg" width=24 /> Vim stuffs
-
-[Neovim](https://github.com/neovim/neovim) Contributor and Maintainer,
-[Nvim-lua](https://github.com/nvim-lua) Maintainer. Here are some (Neo)Vim plugins that I made.
 
 - <img alt="lua icon" src="https://github.com/glepnir/glepnir/raw/master/octicons/lua.svg" width=24 />  **Written in Lua Neovim Only**
   - [lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) enhance neovim built-in lsp UI performance
@@ -55,7 +57,6 @@
   - [dashboard-nvim](https://github.com/glepnir/dashboard-nvim) Vim/Neovim startup plugin
   - [spaceline.vim](https://github.com/glepnir/spaceline.vim) Vim/Neovim statusline plugin like spacemacs
   - [oceanic material](https://github.com/glepnir/oceanic-material) Vim/Neovim Colorscheme
-  - [ThinkVim](https://github.com/hardcoreplayers/ThinkVim) Community-based vim configuration
 
 - <img alt="go icon" src="https://github.com/glepnir/glepnir/raw/master/octicons/gopher.svg" width=24 /> **Written in Go**
   - [Jarvim](https://github.com/glepnir/jarvim) Cli tool to generate vim configuration
