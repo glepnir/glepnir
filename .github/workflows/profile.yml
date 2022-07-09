@@ -11,7 +11,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: medias.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PROFILE_TOKEN }}
           base: ""
           config_order: anilist, music
           output_action: gist
