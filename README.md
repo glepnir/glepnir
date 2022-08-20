@@ -23,3 +23,23 @@
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
+
+## Neovim Plugins
+
+- [lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim)   neovim lsp plugin with modern UI
+
+- [dashboard-nvim](https://github.com/glepnir/dashboard-nvim) a fancy neovim startup screen plugin
+
+- [galaxyline.nvim](https://github.com/glepnir/galaxyline.nvim) a highly custom neovim statusline plugin
+
+- [template.nvim](https://github.com/glepnir/template.nvim) insert template into buffer
+
+- [coman.nvim](https://github.com/glepnir/coman.nvim) generate comment and annotation
+
+- [mcc.nvim](https://github.com/glepnir/mcc.nvim) change the input to anything your want
+
+- [cosynvim](https://github.com/glepnir/cosynvim) a modern neovim config template based on my personal neovim
+
+- [nvim](https://github.com/glepnir/nvim) personal neovim config with fast startup 30ms
+
+- [zephyr-nvim](https://github.com/glepnir/zephyr-nvim) neovim colorscheme
