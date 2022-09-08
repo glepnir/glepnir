@@ -60,5 +60,12 @@
         <b>champly</b>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/Yarnus" title="Yarnus">
+        <img src="https://github.com/Yarnus.png" style="border-radius:50%" width="50px"/>
+        <br/>
+        <b>Yarnus</b>
+      </a>
+    </td>
   </tr>
 </table>
