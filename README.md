@@ -26,7 +26,7 @@
 
 - [Author of these neovim plugins](https://github.com/search?l=&p=1&q=user%3Aglepnir+stars%3A%3E15+language%3ALua&ref=advsearch&type=Repositories)
 
-- Backers
+- **Backers**
 
   if you'd like to support my work financially, buy me a drink through [paypal](https://www.paypal.me/bobbyhub) [wechat or alipay](./donate.png)
 
