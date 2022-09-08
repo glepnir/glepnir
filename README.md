@@ -5,9 +5,9 @@
 <p align="center">
 <b><a href="https://github.com/neovim/neovim">(Neo)Vimer</a></b>
 •
-<b><a href="mailto:glepnir@gopherhub.org"> Email me</a></b>
+<b><a href="mailto:glepnir@neovim.pro"> Email me</a></b>
 •
-<b><a href="https://blog.gopherhub.org">My Blog</a></b>
+<b><a href="https://blog.neovim.pro">My Blog</a></b>
 •
 <b><a href="https://www.paypal.me/bobbyhub">Sponsor</a></b>
 </p>
@@ -24,22 +24,41 @@
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
-## Neovim Plugins
+- [Author of these neovim plugins](https://github.com/search?l=&p=1&q=user%3Aglepnir+stars%3A%3E15+language%3ALua&ref=advsearch&type=Repositories)
 
-- [lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim)   neovim lsp plugin with modern UI
+- Backers
 
-- [dashboard-nvim](https://github.com/glepnir/dashboard-nvim) a fancy neovim startup screen plugin
+  if you'd like to support my work financially, buy me a drink through [paypal](https://www.paypal.me/bobbyhub) [wechat or alipay](./donate.png)
 
-- [galaxyline.nvim](https://github.com/glepnir/galaxyline.nvim) a highly custom neovim statusline plugin
-
-- [template.nvim](https://github.com/glepnir/template.nvim) insert template into buffer
-
-- [coman.nvim](https://github.com/glepnir/coman.nvim) generate comment and annotation
-
-- [mcc.nvim](https://github.com/glepnir/mcc.nvim) change the input to anything your want
-
-- [cosynvim](https://github.com/glepnir/cosynvim) a modern neovim config template based on my personal neovim
-
-- [nvim](https://github.com/glepnir/nvim) personal neovim config with fast startup 30ms
-
-- [zephyr-nvim](https://github.com/glepnir/zephyr-nvim) neovim colorscheme
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/jiennyx" title="jiennyx">
+        <img src="https://github.com/jiennyx.png" style="border-radius:50%" width="50px"/>
+        <br/>
+        <b>Jiennyx</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/RakerZh" title="RakerZh">
+        <img src="https://github.com/RakerZh.png" style="border-radius:50%" width="50px"/>
+        <br/>
+        <b>RakerZh</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ShiChenCong" title="RakerZh">
+        <img src="https://github.com/ShiChenCong.png" style="border-radius:50%" width="50px"/>
+        <br/>
+        <b>ShiChenCong</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/champly" title="champly">
+        <img src="https://github.com/champly.png" style="border-radius:50%" width="50px"/>
+        <br/>
+        <b>champly</b>
+      </a>
+    </td>
+  </tr>
+</table>
