@@ -3,14 +3,14 @@
 </div>
 
 <p align="center">
-<b><a href="https://github.com/neovim/neovim">(Neo)Vimer</a></b>
-•
 <b><a href="mailto:glepnir@neovim.pro"> Email me</a></b>
 •
 <b><a href="https://blog.neovim.pro">My Blog</a></b>
 •
 <b><a href="https://www.paypal.me/bobbyhub">Sponsor</a></b>
 </p>
+
+<p align="center"><b> A Vimer work at neovim team and other open source projects</b></p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
