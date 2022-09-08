@@ -69,7 +69,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/shandengjueding" title="shandengjueding">
-        <img src="https://github.com/shandengjueding" style="border-radius:50%" width="50px"/>
+        <img src="https://github.com/shandengjueding.png" style="border-radius:50%" width="50px"/>
         <br/>
         <b>duanchen</b>
       </a>
