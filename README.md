@@ -3,11 +3,13 @@
 </div>
 
 <p align="center">
+•
+<b><a href="https://space.bilibili.com/321783076/"> BiliBili</a></b>
+•
 <b><a href="mailto:glepnir@neovim.pro"> Email me</a></b>
 •
-<b><a href="https://blog.neovim.pro">My Blog</a></b>
+<b><a href="https://yupdo.org">Blog</a></b>
 •
-<b><a href="https://www.paypal.me/bobbyhub">Sponsor</a></b>
 </p>
 
 <p align="center"><b> A Vimer work at neovim team and other open source projects</b></p>
