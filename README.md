@@ -12,8 +12,6 @@
 •
 </p>
 
-<p align="center"><b> A Vimer work at neovim team and other open source projects</b></p>
-
 <p align="center">
 <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
 <img src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
