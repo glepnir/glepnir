@@ -23,5 +23,3 @@
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
-
-- [Author of these neovim plugins](https://github.com/search?q=user%3Anvimdev+stars%3A%3E1+language%3ALua&ref=advsearch&type=repositories)
